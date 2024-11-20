@@ -1,3 +1,4 @@
 main.o
 *.o
 m_debug/
+debug/
